@@ -15,8 +15,51 @@
 </head>
 
 <body>
-      
-    <div id="seconddiv">
+        <!-- Navbar -->
+<nav class="navbar navbar-expand-lg fixed-top bg-light navbar-light">
+    <div class="container">
+      <a class="navbar-brand" href="#"
+        ><img
+          id="MDB-logo"
+          src="bankly_logo-removebg-preview.png"
+          alt="MDB Logo"
+          draggable="false"
+          height="30"
+      /></a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-mdb-toggle="collapse"
+        data-mdb-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ms-auto align-items-center">
+          <li class="nav-item">
+            <a class="nav-link mx-2" href="#!"><i class="fas fa-plus-circle pe-2"></i>Post</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link mx-2" href="#!"><i class="fas fa-bell pe-2"></i>Alerts</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link mx-2" href="login.html"><i class="fas fa-heart pe-2"></i>Log in</a>
+          </li>
+          <li class="nav-item ms-3">
+            <a class="btn btn-black btn-rounded" href="Signup.html">Sign up</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!-- Navbar -->  
+
+
+
+       <div id="seconddiv">
         <div id="you">
         <div>
             <h1 id="firsttext">The lifestyle <br> bank that <br> moves you <br> forward!</h1>
@@ -33,8 +76,8 @@
             <video id="myvid" muted loop autoplay src="Bankly first vidoe.mp4"></video>
         </div>
     </div>
-    </div>
-   
+    </div> 
+  
       <div id="secondpage">
         <div>
             <h1 id="individuals"> Enabling individuals and <br> businesses at every <br> stage of life to advance <br>
@@ -88,17 +131,18 @@
             </div>
         </div>
     </div> 
-        <!-- <div class="third">
+        <div class="third">
+            <div id="success">
             <div id="busy">
                 <b>
                     <p id="ness">BUSINESS</p>
                 </b>
-                <h1 style="font-size: 35px;">Start your journey to <br> business success.</h1>
+                <h1 id="jour">Start your journey to <br> business success.</h1>
                 <h6>Open a business account</h6>
-                <p>Open a business account in your business name in just <br> 3 minutes.</p>
+                <p>Open a business account in <br> your business name in just <br> 3 minutes.</p>
                 <h6>Accept payments</h6>
-                <p>Our POS terminals enable you to accept different modes of <br> payment: including card payments and
-                    bank transfers. This <br> flexibility makes it easier for you to cater to your customers.</p>
+                <p>Our POS terminals enable you <br> to accept different modes of <br> payment: including card payments <br> and
+                    bank transfers. This <br> flexibility makes it easier for you to <br> cater to your customers.</p>
                 <br><br>
 
                 <a href="#">
@@ -108,29 +152,31 @@
                         </svg></p>
                 </a>
             </div>
-            <div id="thevid">
-                <video style="width: 550px; height: 550px; margin-left: 50px;" muted loop autoplay
-                    src="Bankly Second video.mp4"></video>
+            <div>
+                <video id="thevid" src="Bankly Second video.mp4"></video>
+                    
             </div>
-        </div> -->
-        <!-- <div class="fourth">
+        </div>
+        </div> 
+        <div class="fourth">
             <div id="thetwo">
             <div>
-                <img style="width: 400px; height: 400px; " src="another bankly.jpg" alt="">
+                <img id="sonal" src="another bankly.jpg" alt="">
             </div>
+            <br>
             <div id="easy">
                 <b>
-                    <p id="pers">PERSONAL</p>
+                    <p id="person">PERSONAL</p>
                 </b>
-                <h1 id="feel" style="font-size: 35px;">Banking that feels familiar - <br> as easy as texting a friend!
+                <h1 id="feel">Banking that feels familiar - <br> as easy as texting a friend!
                 </h1>
                 <ul>
-                    <li>Get 2% Cashback on every bill payment.</li>
+                    <li>Get 2% Cashback on every bill <br> payment.</li>
                     <li>Earn 12% annual interest on savings.</li>
-                    <li>Experience fast transfers with 99% success rate</li>
-                    <li>Save and stand a chance to win N10,000 daily.</li>
+                    <li>Experience fast transfers with 99% <br> success rate</li>
+                    <li>Save and stand a chance to <br> win N10,000 daily.</li>
                     <li>Earn up to N100,000 monthly from our attractive referral <br> program.</li>
-                    <li>Do more together. Achieve goals with friends and families <br> using the <b>group savings</b>
+                    <li>Do more together. Achieve goals <br> with friends and families <br> using the <b>group savings</b>
                         feature.</li>
                 </ul>
                 <br>
@@ -143,33 +189,33 @@
                 </a>
             </div>
         </div>
-        </div> -->
+        </div> 
 
-        <!-- <div style="margin-top: 150px; " class="fifth">
+        <div style="margin-top: 150px; " class="fifth">
             <div id="thethree">
             <div id="corp">
                 <b>
                     <p>CORPORATE</p>
                 </b>
-                <h1 style="font-size: 35px;">Plug into our APIs for a <br> seamless payment <br> experience.</h1>
-                <p>Our end-to-end Banking as a Service model enables third <br> parties to connect with Bankly's
-                    infrastructure directly via APIs, <br> thereby enabling you to keep moving forward with a payment
-                    <br>solution that is fast, secure and user-friendly.
+                <h1 id="api">Plug into our APIs for a <br> seamless payment <br> experience.</h1>
+                <p id="nect">Our end-to-end Banking as a <br> Service model enables third <br> parties to connect with <br> Bankly's
+                    infrastructure directly <br> via APIs, <br> thereby enabling you to keep <br> moving forward with a payment
+                    <br>solution that is fast, secure and <br> user-friendly.
                 </p>
                 <a href="#">
-                    <p style="margin-left: 20px; text-decoration: none;" id="svg">Learn more <svg
+                    <p style="margin-left: 0px; text-decoration: none;" id="svg">Learn more <svg
                             xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"
                             fill="#5f6368">
                             <path d="M647-440H160v-80h487L423-744l57-56 320 320-320 320-57-56 224-224Z" />
                         </svg></p>
                 </a>
             </div>
-            <div id="kan">
-                <img style="margin-left: 200px; width: 350px; height: 430px;" src="images (1).jpg" alt="">
+            <div>
+                <img id="kan" src="images (1).jpg" alt="">
             </div>
         </div>
         </div>
-        <hr> -->
+        
 
         <!-- <div class="marq">
             <div id="testi" style="width: 100%; height: 300px; height: 150px; background-color: rgb(248,248,248);">

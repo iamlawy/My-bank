@@ -42,18 +42,21 @@ color: white;
 border-color: rgb(41,108,240);
 border-radius: 5px;
 }
+#api{
+    font-size: 35px;
+}
 #pers{
     width: 200px;
     height: 40px;
     background-color: white;
     color: rgb(41,108,240);
-    border-color: rgb(41,108,240);
     margin-left: 10px;
     border-radius: 5px;
+    border-color:  rgb(41,108,240);
 }
 #secondpage{
     width: 100%;
-    height: 1050px;
+    height: 1150px;
     background-color: rgb(41,108,240);
 }
 #individuals{
@@ -105,46 +108,70 @@ border-radius: 5px;
 }
 .third{
     width: 100%;
-    height: 600px;
-    margin-top: 150px;
+    height: 800px;
+    margin-top: 100px;
     /* margin-left: 110px; */
+    /* display: flex; */
+}
+#success{
     display: flex;
 }
 #ness{
     color: rgb(41,108,240);
 }
+#jour{
+    font-size: 35px;
+}
+#thevid{
+    width: 550px;
+    height: 550px;
+    /* margin-left: 50px; */
+}
 #busy{
-    margin-left: 150px;
+    margin-left: 50px;
+}
+#sonal{
+    width: 400px;
+    height: 400px;
+    border-radius: 20px;
+    margin-left: 25px;
+}
+#kan{
+    width: 350px;
+    height: 430px;
+    margin-left: 0px;
 }
 #svg{
     color: rgb(41,108,240);
 }
 .fourth{
     width: 100%;
-    height: 400px;
+    height: 750px;
     /* margin-left: 110px; */
-    margin-top: 50px;
+    /* margin-top: 50px; */
    
 }
 #thetwo{
-    margin-left: 150px;
+    /* margin-left: 150px; */
+    /* margin-top: 50px; */
     display: flex ;
 }
 #feel{
-    margin-left: 10px;
+    /* margin-left: 10px; */
+    font-size: 35px;
 }
 #easy{
-    margin-left: 300px;
+     margin-left: 25px; 
 }
 .fifth{
     width: 100%;
     height: 600px;
     /* margin-left: 110px; */
-    margin-top: 50px;
+    /* margin-top: 50px; */
     
 }
 #thethree{
-    margin-left: 150px;
+    margin-left: 50px;
     display: flex;
 }
 .marq{
@@ -152,8 +179,15 @@ border-radius: 5px;
     height: 500px;
 
 }
+/* #MDB-logo{
+width: 100px;
+height: 50px;
+} */
 #nial{
     color: rgb(41,108,240);
+}
+#person{
+    color:  rgb(41,108,240);
 }
 #testi{
     text-align: center;
@@ -243,4 +277,43 @@ border-radius: 5px;
         width: 300px;
         height: 400px;
      }
+     #success{
+        display: block;
+     }
+     #thevid{
+        width: 300px;
+        height: 300px;
+     }
+     #jour{
+        font-size: 25px;
+     }
+     #thetwo{
+        display: block;
+     }
+     #sonal{
+        width: 300px;
+        height: 300px;
+     }
+     #feel{
+        font-size: 30px;
+     }
+     #easy li{
+        font-size: 15px;
+     }
+     #thethree{
+        display: block;
+     }
+     #kan{
+        width: 250px;
+        height: 300px;
+     }
+     #api{
+        font-size: 23px;
+        
+     }
+     #nect{
+        font: 20px
+        ;
+     }
+
 }
