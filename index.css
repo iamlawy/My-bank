@@ -16,7 +16,7 @@
 }
 #you{
   display: flex;
-
+    margin-left: 80px;
 }
 #firsttext{
   margin-left: 50px; 
@@ -27,7 +27,7 @@
     width:600px;
     height: 600px;
     margin-top: 20px;
-    /* margin-left: 10px; */
+    margin-left: 100px;
 }
 #myp{
     margin-left: 50px;
@@ -56,7 +56,7 @@ border-radius: 5px;
 }
 #secondpage{
     width: 100%;
-    height: 1150px;
+    height: 1200px;
     background-color: rgb(41,108,240);
 }
 #individuals{
@@ -68,7 +68,7 @@ border-radius: 5px;
 #lola{
     width: 400px;
     height: 500px;
-    margin-left: 50px;
+    margin-left: 150px;
     margin-top: 100px;
 }
 #move h1{
@@ -83,6 +83,9 @@ border-radius: 5px;
 }
 #app{
     margin-left: 30px;
+}
+#move{
+    margin-left: 50px;
 }
 #move button{
     width: 270px;
@@ -108,8 +111,8 @@ border-radius: 5px;
 }
 .third{
     width: 100%;
-    height: 800px;
-    margin-top: 100px;
+    height: 600px;
+    margin-top: 50px;
     /* margin-left: 110px; */
     /* display: flex; */
 }
@@ -125,35 +128,35 @@ border-radius: 5px;
 #thevid{
     width: 550px;
     height: 550px;
-    /* margin-left: 50px; */
+    margin-left: 100px;
 }
 #busy{
-    margin-left: 50px;
+    margin-left: 130px;
 }
 #sonal{
-    width: 400px;
-    height: 400px;
+    width: 350px;
+    height: 350px;
     border-radius: 20px;
     margin-left: 25px;
 }
 #kan{
     width: 350px;
-    height: 430px;
-    margin-left: 0px;
+    height: 350px;
+    margin-left: 100px;
 }
 #svg{
     color: rgb(41,108,240);
 }
 .fourth{
     width: 100%;
-    height: 750px;
-    /* margin-left: 110px; */
+    height: 450px;
+    /* margin-left: 100px; */
     /* margin-top: 50px; */
    
 }
 #thetwo{
-    /* margin-left: 150px; */
-    /* margin-top: 50px; */
+    margin-left: 105px;
+    margin-top: 30px;
     display: flex ;
 }
 #feel{
@@ -161,28 +164,26 @@ border-radius: 5px;
     font-size: 35px;
 }
 #easy{
-     margin-left: 25px; 
+     margin-left: 100px; 
 }
 .fifth{
     width: 100%;
-    height: 600px;
+    height: 500px;
+    margin-top: 150px;
     /* margin-left: 110px; */
     /* margin-top: 50px; */
     
 }
 #thethree{
-    margin-left: 50px;
+    margin-left: 130px;
     display: flex;
 }
 .marq{
     width: 100%;
     height: 500px;
-    position: ;
+   
 }
-/* #MDB-logo{
-width: 100px;
-height: 50px;
-} */
+
 #nial{
     color: rgb(41,108,240);
 }
@@ -191,14 +192,143 @@ height: 50px;
 }
 #testi{
     text-align: center;
+    width: 100%;
+    height: 1000px;
+    background-color: rgb(248,248,248);
+    
 }
 #nav{
     height: 70px;
     width: 100%;
     
 }
+#abiodun{
+    display: flex;
+    gap: 20px;
+    
+}
+#rita{
+    background-color: rgb(255,255,255);
+    width: 350px;
+    height: 230px;
+  
+}
+#rita h5{
+text-align: left;
+padding-left: 15px;
+}
+#ayinla{
+    background-color: rgb(255,255,255);
+    width: 350px;
+    height: 230px;
+}
+#ayinla h5{
+    text-align: left;
+    padding-left: 8px;
+}
+#olamide{
+    background-color: rgb(255,255,255);
+    width: 350px;
+}
+#olamide h5{
+    text-align: left;
+    padding-left: 10px;
+}
+#samuel{
+display: flex;
+gap: 20px;
 
-
+}
+#segun{
+    background-color: rgb(255,255,255);
+    width: 350px;
+    height: 230px;
+}
+#segun h5{
+    text-align: left;
+    padding-left: 10px;
+}
+#obinna{
+    background-color: rgb(255,255,255);
+    width: 350px;
+   
+}
+#obinna h5{
+    text-align: left;
+    padding-left: 5px;
+}
+#etim{
+    background-color: rgb(255,255,255);
+    width: 350px;
+    height: 150px;
+    margin-top: 20px;
+}
+#etim h5{
+    text-align: left;
+    padding-left: 10px;
+}
+#lolly{
+    background-color: rgb(255,255,255);
+    width: 350px;
+    height: 170px;
+    margin-top: 20px;
+}
+#lolly h5{
+    text-align: left;
+    padding-left: 10px;
+}
+#phillip{
+    background-color: rgb(255,255,255);
+    width: 350px;
+    height: 170px;
+    margin-top: 20px;
+}
+#phillip h5{
+    text-align: left;
+    padding-left: 10px;
+}
+#daizel{
+    background-color: rgb(255,255,255);
+    width: 350px;
+    height: 170px;
+}
+#moving{
+    font-size: 33px;
+}
+#daizel h5{
+    text-align: left;
+    padding-left: 10px;
+}
+.interface{
+    margin-left: 100px;
+}
+#joy{
+    display: flex;
+    gap: 20px;
+   
+}
+#ocheme{
+    display: flex;
+    gap: 20px;
+}
+#austin{
+    background-color: rgb(255,255,255);
+    width: 350px;
+    height: 150px;
+}
+#austin h5{
+    text-align: left;
+    padding-left: 10px;
+}
+#joseph{
+    background-color: rgb(255,255,255);
+    width: 350px;
+    height: 150px;
+}
+#joseph h5{
+    text-align: left;
+    padding-left: 10px;
+}
 
 
 
@@ -236,6 +366,10 @@ height: 50px;
     #myvid{
         width: 300px;
         height: 300px;
+        margin-left: -80px;
+    }
+    #gateway{
+        margin-left: -100px;
     }
     #buttons{
         display: flex;
@@ -273,9 +407,23 @@ height: 50px;
         width: 200px;
         height: 50px;
      }
+     #move p{
+        font-size: 15px;
+     }
+     #forward{
+        font-size: 15px;
+     }
+     #move{
+        margin-left: -0px;
+     }
+     #move h1{
+        font-size: 15px;
+     }
      #lola{
         width: 300px;
         height: 400px;
+        margin-left: -5px;
+        /* margin-top: -5px; */
      }
      #success{
         display: block;
@@ -283,6 +431,7 @@ height: 50px;
      #thevid{
         width: 300px;
         height: 300px;
+        margin-left: -10px;
      }
      #jour{
         font-size: 25px;
@@ -290,13 +439,21 @@ height: 50px;
      #thetwo{
         display: block;
      }
+     .fourth{
+        height: 700px;
+     }
      #sonal{
         width: 300px;
         height: 300px;
+        margin-left: -80px;
      }
      #feel{
-        font-size: 30px;
+        font-size: 24px;
      }
+     #easy{
+        margin-left: -80px;
+     }
+     
      #easy li{
         font-size: 15px;
      }
@@ -312,8 +469,106 @@ height: 50px;
         
      }
      #nect{
-        font: 20px
-        ;
+        font: 20px;
      }
-    
+     #nial{
+        font-size: 15px;
+        margin-left: -40px;
+     }
+     #moving{
+        font-size: 20px;
+        margin-left: -40px;
+     }
+     #abiodun{
+        display: block;
+     }
+    #rita{
+        width: 280px;
+        height: 250px;
+        margin-top: 20px;
+    }
+    #ayinla{
+        width: 280px;
+        height: 250px;
+        margin-top: 20px;
+    }
+    #olamide{
+        width: 280px;
+        height: 380px;
+        margin-top: 20px;
+    }
+    #samuel{
+        display: block;
+        margin-top: 20px;
+    }
+    #segun{
+        width: 280px;
+        height: 250px;
+        margin-top: 20px;
+    }
+    #obinna{
+        width: 280px;
+        height: 250px;
+        margin-top: 20px;
+    }
+    #etim{
+        width: 280px;
+        height: 200px;
+        margin-top: 20px;
+    }
+    #testi{
+        height: 4000px;
+    }
+    #joy{
+        display: block;
+    }
+    #lolly{
+        width: 280px;
+        height: 200px;
+        margin-top: 20px;
+    }
+    #phillip{
+        width: 280px;
+        height: 180px;
+        margin-top: 20px;
+    }
+    #daizel{
+        width: 280px;
+        height: 180px;
+        margin-top: 20px;
+    }
+    #ocheme{
+        display: block;
+    }
+    #austin{
+        width: 280px;
+        height: 180px;
+        margin-top: 20px;
+    }
+    #joseph{
+        width: 280px;
+        height: 180px;
+        margin-top: 20px;
+    }
+    #busy{
+        margin-left: 30px;
+    }
+    #secondpage{
+        height: 1550px;
+    }
+    .third{
+        height: 800px;
+    }
+    .fifth{
+        height: 750px;
+    }
+    #corp{
+        margin-left: -100px;
+    }
+    #kan{
+        margin-left: -110px;
+    }
+    .interface{
+        margin-left: -1px;
+    }
 }
