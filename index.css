@@ -7,7 +7,11 @@
     height: 100px;
     margin-left: 115px;
 }
-
+#logo{
+    width: 200px;
+    height: 80px;
+    margin-left: -20px;
+}
 
 #seconddiv{
     display: flex;
@@ -68,7 +72,7 @@ border-radius: 5px;
 #lola{
     width: 400px;
     height: 500px;
-    margin-left: 150px;
+    margin-left: 130px;
     margin-top: 100px;
 }
 #move h1{
@@ -134,14 +138,14 @@ border-radius: 5px;
     margin-left: 130px;
 }
 #sonal{
-    width: 350px;
-    height: 350px;
+    width: 450px;
+    height: 450px;
     border-radius: 20px;
     margin-left: 25px;
 }
 #kan{
-    width: 350px;
-    height: 350px;
+    width: 450px;
+    height: 450px;
     margin-left: 100px;
 }
 #svg{
@@ -193,7 +197,7 @@ border-radius: 5px;
 #testi{
     text-align: center;
     width: 100%;
-    /* height: 1000px; */
+    height: 700px;
     background-color: rgb(248,248,248);
     
 }
@@ -332,7 +336,119 @@ gap: 20px;
     text-align: left;
     padding-left: 10px;
 }
-
+.products{
+    width: 100%;
+    height: 700px;
+    text-align: center;
+    margin-top: 300px;
+}
+#pro{
+    color: rgb(41,108,240);
+    font-size: 20px;
+}
+#one{
+    width: 500px;
+    height: 500px;
+    
+}
+#two{
+    width: 500px;
+    height: 500px;
+    
+}
+#three{
+    width: 500px;
+    height: 500px;
+}
+#save{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.blog{
+    width: 100%;
+    height: 700px;
+}
+#release{
+    text-align: center;
+    width: 100%;
+    height: 200px;
+    
+}
+#release p{
+    color: rgb(41,108,240);
+    font-size: 20px;
+} 
+#release h1{
+    font-size: 35px;
+}
+#threepic{
+    display: flex;
+    justify-content: space-around;
+    
+}
+#bridal{
+    margin-left: 100px;
+}
+#bouquet{
+    margin-left: 50px;
+}
+#staff{
+    margin-left: 50px;
+}
+ #onepic{
+    width: 350px;
+    height: 200px;
+    border-radius: 10px;
+}
+#twopic{
+    width: 350px;
+    height: 200px;
+    border-radius: 10px;
+}
+#threepic{
+    width: 350px;
+    height: 200px;
+    border-radius: 10px;
+} 
+.deposit{
+    width: 100%;
+    height: 600px;
+    background-color: rgb(4,20,50);
+    display: flex;
+}
+#whitebank{
+    width: 230px;
+    height: 80px;
+    margin: 100px 0 0 100px;
+}
+/* #ndic{
+    margin-left: 20px;
+} */
+#affair{
+    color: white;
+    margin-left: 130px;
+    font-size: 13px;
+}
+#faqs{
+    display: flex;
+    margin-top: 120px;
+}
+#faqs p{
+    color: white;
+    font-size: 15px;
+}
+#pany{
+    margin-left: 100px;
+}
+#lyapp{
+    margin-left: 50px;
+}
+#gram{
+    margin-left: 50px;
+}
+#oko{
+    margin-left: 50px;
+}
 
 
 
@@ -425,7 +541,7 @@ gap: 20px;
      #lola{
         width: 300px;
         height: 400px;
-        margin-left: -5px;
+        margin-left: -0px;
         /* margin-top: -5px; */
      }
      #success{
@@ -519,9 +635,9 @@ gap: 20px;
         height: 200px;
         margin-top: 20px;
     }
-    #testi{
-        /* height: 4000px; */
-    }
+    /* #testi{
+        height: 4000px;
+    } */
     #joy{
         display: block;
     }
@@ -573,6 +689,37 @@ gap: 20px;
     }
     .interface{
         margin-left: 50px;
-        height: 600px;
+        height: 500px;
+    }
+    #logo{
+        width: 100px;
+        height: 40px;
+        margin-left: 1px;
+    }
+    #one{
+        width: 150px;
+        height: 150px;
+        
+    }
+    #two{
+        width: 150px;
+        height: 150px;
+        
+    }
+    #three{
+        width: 150px;
+        height: 150px;
+    }
+    #blog{
+        margin-top: -50px;
+    }
+    #products{
+        height: 300px;
+    }
+    #threepic{
+        display: block;
+    }
+    #blog{
+        height: 2000px;
     }
 }
