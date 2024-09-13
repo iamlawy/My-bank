@@ -1,725 +1,997 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
-#image{
+
+#image {
     width: 200px;
     height: 100px;
     margin-left: 115px;
 }
-#logo{
+
+#logo {
     width: 200px;
     height: 80px;
     margin-left: -20px;
 }
 
-#seconddiv{
+#seconddiv {
     display: flex;
     margin-top: 50px;
     /* margin-top: 130px; */
 }
-#you{
-  display: flex;
+
+#you {
+    display: flex;
     margin-left: 80px;
 }
-#firsttext{
-  margin-left: 50px; 
-  margin-top: 50px;
-  font-size: 60px;  
+
+#firsttext {
+    margin-left: 50px;
+    margin-top: 50px;
+    font-size: 60px;
 }
-#myvid{
-    width:600px;
+
+#myvid {
+    width: 600px;
     height: 600px;
     margin-top: 20px;
     margin-left: 100px;
 }
-#myp{
+
+#myp {
     margin-left: 50px;
     font-size: 20px;
 }
-#bus{
-margin-left: 50px;
-width: 200px;
-height: 40px;
-background-color: rgb(41,108,240);
-color: white;
-border-color: rgb(41,108,240);
-border-radius: 5px;
+
+#bus {
+    margin-left: 50px;
+    width: 200px;
+    height: 40px;
+    background-color: rgb(41, 108, 240);
+    color: white;
+    border-color: rgb(41, 108, 240);
+    border-radius: 5px;
 }
-#api{
+
+#api {
     font-size: 35px;
 }
-#pers{
+
+#pers {
     width: 200px;
     height: 40px;
     background-color: white;
-    color: rgb(41,108,240);
+    color: rgb(41, 108, 240);
     margin-left: 10px;
     border-radius: 5px;
-    border-color:  rgb(41,108,240);
+    border-color: rgb(41, 108, 240);
 }
-#secondpage{
+
+#secondpage {
     width: 100%;
     height: 1200px;
-    background-color: rgb(41,108,240);
+    background-color: rgb(41, 108, 240);
 }
-#individuals{
+
+#individuals {
     text-align: center;
     padding-top: 50px;
     color: white;
     font-size: 55px;
 }
-#lola{
+
+#lola {
     width: 400px;
     height: 500px;
     margin-left: 130px;
     margin-top: 100px;
 }
-#move h1{
+
+#move h1 {
     font-size: 22px;
 }
-#move img{
+
+#move img {
     width: 70px;
     height: 70px;
 }
-#both{
+
+#both {
     display: flex;
 }
-#app{
+
+#app {
     margin-left: 30px;
 }
-#move{
+
+#move {
     margin-left: 50px;
 }
-#move button{
+
+#move button {
     width: 270px;
     height: 40px;
     border-radius: 10px;
-    background-color: rgb(41,108,240);
+    background-color: rgb(41, 108, 240);
     color: white;
     border-color: white;
 }
-#bills{
+
+#bills {
     color: white;
     display: flex;
     margin-top: 100px;
     /* margin-left: 100px; */
 }
-#pos{
+
+#pos {
     color: white;
     margin-left: 30px;
 }
-#yup{
+
+#yup {
     display: flex;
     /* margin-left: 100px; */
 }
-.third{
+
+.third {
     width: 100%;
     height: 600px;
     margin-top: 50px;
     /* margin-left: 110px; */
     /* display: flex; */
 }
-#success{
+
+#success {
     display: flex;
 }
-#ness{
-    color: rgb(41,108,240);
+
+#ness {
+    color: rgb(41, 108, 240);
 }
-#jour{
+
+#jour {
     font-size: 35px;
 }
-#thevid{
+
+#thevid {
     width: 550px;
     height: 550px;
     margin-left: 100px;
 }
-#busy{
+
+#busy {
     margin-left: 130px;
 }
-#sonal{
+
+#sonal {
     width: 450px;
     height: 450px;
     border-radius: 20px;
     margin-left: 25px;
 }
-#kan{
+
+#kan {
     width: 450px;
     height: 450px;
     margin-left: 100px;
 }
-#svg{
-    color: rgb(41,108,240);
+
+#svg {
+    color: rgb(41, 108, 240);
 }
-.fourth{
+
+.fourth {
     width: 100%;
     height: 450px;
     /* margin-left: 100px; */
     /* margin-top: 50px; */
-   
+
 }
-#thetwo{
+
+#thetwo {
     margin-left: 105px;
     margin-top: 30px;
-    display: flex ;
+    display: flex;
 }
-#feel{
+
+#feel {
     /* margin-left: 10px; */
     font-size: 35px;
 }
-#easy{
-     margin-left: 100px; 
+
+#easy {
+    margin-left: 100px;
 }
-.fifth{
+
+.fifth {
     width: 100%;
     height: 500px;
     margin-top: 150px;
     /* margin-left: 110px; */
     /* margin-top: 50px; */
-    
+
 }
-#thethree{
+
+#thethree {
     margin-left: 130px;
     display: flex;
 }
-.marq{
+
+.marq {
     width: 100%;
-    height: 500px;
-   
+    height: 700px;
+
 }
 
-#nial{
-    color: rgb(41,108,240);
+#nial {
+    color: rgb(41, 108, 240);
 }
-#person{
-    color:  rgb(41,108,240);
+
+#person {
+    color: rgb(41, 108, 240);
 }
-#testi{
+
+#testi {
     text-align: center;
     width: 100%;
     height: 700px;
-    background-color: rgb(248,248,248);
-    
+     background-color: rgb(248, 248, 248); 
+    /* background-color: red; */
+
 }
-#nav{
+
+#nav {
     height: 70px;
     width: 100%;
-    
+
 }
-#abiodun{
+
+#abiodun {
     display: flex;
     gap: 20px;
     
 }
-#rita{
-    background-color: rgb(255,255,255);
+
+#rita {
+    background-color: rgb(255, 255, 255);
     width: 350px;
     height: 230px;
-  
+
 }
-#rita h5{
-text-align: left;
-padding-left: 15px;
+
+#rita h5 {
+    text-align: left;
+    padding-left: 15px;
 }
-#ayinla{
-    background-color: rgb(255,255,255);
+
+#ayinla {
+    background-color: rgb(255, 255, 255);
     width: 350px;
     height: 230px;
 }
-#ayinla h5{
+
+#ayinla h5 {
     text-align: left;
     padding-left: 8px;
 }
-#olamide{
-    background-color: rgb(255,255,255);
+
+#olamide {
+    background-color: rgb(255, 255, 255);
     width: 350px;
 }
-#olamide h5{
+
+#olamide h5 {
     text-align: left;
     padding-left: 10px;
 }
-#samuel{
-display: flex;
-gap: 20px;
+
+#samuel {
+    display: flex;
+    gap: 20px;
 
 }
-#segun{
-    background-color: rgb(255,255,255);
+
+#segun {
+    background-color: rgb(255, 255, 255);
     width: 350px;
     height: 230px;
 }
-#segun h5{
+
+#segun h5 {
     text-align: left;
     padding-left: 10px;
 }
-#obinna{
-    background-color: rgb(255,255,255);
+
+#obinna {
+    background-color: rgb(255, 255, 255);
     width: 350px;
-   
+
 }
-#obinna h5{
+
+#obinna h5 {
     text-align: left;
     padding-left: 5px;
 }
-#etim{
-    background-color: rgb(255,255,255);
+
+#etim {
+    background-color: rgb(255, 255, 255);
     width: 350px;
     height: 150px;
     margin-top: 20px;
 }
-#etim h5{
+
+#etim h5 {
     text-align: left;
     padding-left: 10px;
 }
-#lolly{
-    background-color: rgb(255,255,255);
+
+#lolly {
+    background-color: rgb(255, 255, 255);
     width: 350px;
     height: 170px;
     margin-top: 20px;
 }
-#lolly h5{
+
+#lolly h5 {
     text-align: left;
     padding-left: 10px;
 }
-#phillip{
-    background-color: rgb(255,255,255);
+
+#phillip {
+    background-color: rgb(255, 255, 255);
     width: 350px;
     height: 170px;
     margin-top: 20px;
 }
-#phillip h5{
+
+#phillip h5 {
     text-align: left;
     padding-left: 10px;
 }
-#daizel{
-    background-color: rgb(255,255,255);
+
+#daizel {
+    background-color: rgb(255, 255, 255);
     width: 350px;
     height: 170px;
 }
-#moving{
+
+#moving {
     font-size: 33px;
 }
-#daizel h5{
+
+#daizel h5 {
     text-align: left;
     padding-left: 10px;
 }
-.interface{
-    margin-left: 100px;
+
+ .interface {
+    margin-left: 50px;
     height: 500px;
-}
-#joy{
+    width: 100%;
+    
+} 
+
+#joy {
     display: flex;
     gap: 20px;
-   
+
 }
-#ocheme{
+
+#ocheme {
     display: flex;
     gap: 20px;
 }
-#austin{
-    background-color: rgb(255,255,255);
+
+#austin {
+    background-color: rgb(255, 255, 255);
     width: 350px;
     height: 150px;
     margin-top: 20px;
 }
-#austin h5{
+
+#austin h5 {
     text-align: left;
     padding-left: 10px;
 }
-#joseph{
-    background-color: rgb(255,255,255);
+
+#joseph {
+    background-color: rgb(255, 255, 255);
     width: 350px;
     height: 150px;
     margin-top: 20px;
 }
-#joseph h5{
+
+#joseph h5 {
     text-align: left;
     padding-left: 10px;
 }
-.products{
+
+.products {
     width: 100%;
     height: 700px;
+    /* background-color: red; */
     text-align: center;
-    margin-top: 300px;
+    margin-top: 50px;
 }
-#pro{
-    color: rgb(41,108,240);
+
+#pro {
+    color: rgb(41, 108, 240);
     font-size: 20px;
 }
-#one{
+
+#one {
     width: 500px;
     height: 500px;
-    
+
 }
-#two{
+
+#two {
     width: 500px;
     height: 500px;
-    
+
 }
-#three{
+
+#three {
     width: 500px;
     height: 500px;
 }
-#save{
-    font-size: 20px;
+
+#save {
+    font-size: 15px;
     margin-top: 10px;
 }
-.blog{
+
+.blog {
     width: 100%;
-    height: 700px;
+    height: fit-content;
+    /* background-color: blue; */
 }
-#release{
+
+#release {
     text-align: center;
     width: 100%;
-    height: 200px;
-    
+    height: fit-content;
+    /* background-color: red; */
+
 }
-#release p{
-    color: rgb(41,108,240);
+
+#release p {
+    color: rgb(41, 108, 240);
     font-size: 20px;
-} 
-#release h1{
+}
+
+#release h1 {
     font-size: 35px;
 }
-#threepic{
+
+#threepic {
     display: flex;
-    justify-content: space-around;
-    
+    flex-wrap: wrap;
+    height: fit-content;
+    /* background-color: rebeccapurple; */
+    width: 100% !important;
+    padding: 4px 5px 2px 2px;
+    gap: 5px;
+    justify-content: center;
 }
-#bridal{
-    margin-left: 100px;
+
+#bridal {
+    width: 31%;
+    /* background-color: red; */
 }
-#bouquet{
-    margin-left: 50px;
+/* #bridal h4{
+    font-size: 20px;
+} */
+#bouquet {
+    width: 32%;
+
 }
-#staff{
-    margin-left: 50px;
+
+#staff {
+    width: 33%;
 }
- #onepic{
+
+#onepic {
     width: 350px;
     height: 200px;
     border-radius: 10px;
 }
-#twopic{
+
+#twopic {
     width: 350px;
     height: 200px;
     border-radius: 10px;
 }
-#threepic{
+
+#executive {
     width: 350px;
     height: 200px;
     border-radius: 10px;
-} 
-.deposit{
+}
+
+.deposit {
     width: 100%;
-    height: 600px;
-    background-color: rgb(4,20,50);
+    height: 500px;
+    background-color: rgb(4, 20, 50);
     display: flex;
 }
-#whitebank{
+#posits{
+    display: flex;
+}
+#whitebank {
     width: 230px;
     height: 80px;
-    margin: 100px 0 0 100px;
+    margin: 30px 0 0 15px;
 }
+
 /* #ndic{
     margin-left: 20px;
 } */
-#affair{
+#affair {
     color: white;
-    margin-left: 130px;
+     margin-left: 50px; 
     font-size: 13px;
 }
-#faqs{
+
+#faqs {
     display: flex;
-    margin-top: 120px;
+    margin-top: 50px;
+    /* margin-left: -800px; */
+    gap: 20px;
 }
-#faqs p{
+
+#faqs p {
     color: white;
     font-size: 15px;
 }
-#pany{
-    margin-left: 100px;
-}
-#lyapp{
+
+#pany {
     margin-left: 50px;
 }
-#gram{
+
+#lyapp {
     margin-left: 50px;
 }
-#oko{
+
+#gram {
+    margin-left: 50px;
+}
+
+#oko {
     margin-left: 50px;
 }
 
 
+#gies {
+    color: white;
+    margin-top: 10px;
+    font-size: 12px;
+}
+
+#terms {
+    font-size: 12px;
+    padding-left: 200px;
+    color: white;
+    margin-top: 10px;
+}
+
+#police {
+    color: white;
+    padding-left: 50px;
+    margin-top: 7px;
+    font-size: 20px;
+}
+
+/* #carouselExampleIndicators{
+    height: 800px;
+} */
 
 
 
 @media(max-width : 1115px) {
-    #myvid{
+    #myvid {
         width: 450px;
         height: 450px;
     }
-    #buttons{
+
+    #buttons {
         display: flex;
     }
+
     /* #img{
         margin-left: 100px;
     } */
-     #firsttext{
+    #firsttext {
         font-size: 45px;
-     }
+    }
 }
-@media(max-width : 1000px){
-    #myvid{
+
+@media(max-width : 1000px) {
+    #myvid {
         width: 350px;
         height: 350px;
     }
-    #buttons{
+
+    #buttons {
         display: flex;
     }
-    #firsttext{
+
+    #firsttext {
         font-size: 35px;
-     }
+    }
 }
-@media(max-width: 750px){
-    #myvid{
+
+@media(max-width: 750px) {
+    #myvid {
         width: 300px;
         height: 300px;
         margin-left: -80px;
     }
-    #gateway{
+
+    #gateway {
         margin-left: -100px;
     }
-    #buttons{
+
+    #buttons {
         display: flex;
-        
+
     }
-    #bus{
-        height: 70px;
-        width: 120px;
-    }
-    #pers{
+
+    #bus {
         height: 70px;
         width: 120px;
     }
 
-    #firsttext{
+    #pers {
+        height: 70px;
+        width: 120px;
+    }
+
+    #firsttext {
         font-size: 35px;
-     }
-     #myp{
+    }
+
+    #myp {
         font-size: 15px;
-     }
-     #you{
+    }
+
+    #you {
         display: block;
-     }
-     #individuals{
+    }
+
+    #individuals {
         font-size: 25px;
-     }
-     #both{
+    }
+
+    #both {
         display: block;
-     }
-     #secondpage{
+    }
+
+    #secondpage {
         width: 100%;
         height: 1650px;
-     }
-     #move button{
+    }
+
+    #move button {
         width: 200px;
         height: 50px;
-     }
-     #move p{
+    }
+
+    #move p {
         font-size: 15px;
-     }
-     #forward{
+    }
+
+    #forward {
         font-size: 15px;
-     }
-     #move{
+    }
+
+    #move {
         margin-left: -0px;
-     }
-     #move h1{
+    }
+
+    #move h1 {
         font-size: 15px;
-     }
-     #lola{
+    }
+
+    #lola {
         width: 300px;
         height: 400px;
         margin-left: -0px;
         /* margin-top: -5px; */
-     }
-     #success{
+    }
+
+    #success {
         display: block;
-     }
-     #thevid{
+    }
+
+    #thevid {
         width: 300px;
         height: 300px;
         margin-left: -10px;
-     }
-     #jour{
+    }
+
+    #jour {
         font-size: 25px;
-     }
-     #thetwo{
+    }
+
+    #thetwo {
         display: block;
-     }
-     .fourth{
+    }
+
+    .fourth {
         height: 700px;
-     }
-     #sonal{
+    }
+
+    #sonal {
         width: 300px;
         height: 300px;
         margin-left: -80px;
-     }
-     #feel{
+    }
+
+    #feel {
         font-size: 24px;
-     }
-     #easy{
+    }
+
+    #easy {
         margin-left: -80px;
-     }
-     
-     #easy li{
+    }
+
+    #easy li {
         font-size: 15px;
-     }
-     #thethree{
+    }
+
+    #thethree {
         display: block;
-     }
-     #kan{
+    }
+
+    #kan {
         width: 250px;
         height: 300px;
-     }
-     #api{
+    }
+
+    #api {
         font-size: 23px;
-        
-     }
-     #nect{
+
+    }
+
+    #nect {
         font: 20px;
-     }
-     #nial{
+    }
+
+    #nial {
         font-size: 15px;
         margin-left: -40px;
-     }
-     #moving{
+    }
+
+    #moving {
         font-size: 20px;
         margin-left: -40px;
-     }
-     #abiodun{
+    }
+
+    #abiodun {
         display: block;
-     }
-    #rita{
+    }
+
+    #rita {
         width: 280px;
         height: 250px;
         margin-top: 20px;
     }
-    #ayinla{
+
+    #ayinla {
         width: 280px;
         height: 250px;
         margin-top: 20px;
     }
-    #olamide{
+
+    #olamide {
         width: 280px;
         height: 380px;
         margin-top: 20px;
     }
-    #samuel{
+
+    #samuel {
         display: block;
         margin-top: 20px;
     }
-    #segun{
+
+    #segun {
         width: 280px;
         height: 250px;
         margin-top: 20px;
     }
-    #obinna{
+
+    #obinna {
         width: 280px;
         height: 250px;
         margin-top: 20px;
     }
-    #etim{
+
+    #etim {
         width: 280px;
         height: 200px;
         margin-top: 20px;
     }
+
     /* #testi{
         height: 4000px;
     } */
-    #joy{
+    #joy {
         display: block;
     }
-    #lolly{
+
+    #lolly {
         width: 280px;
         height: 200px;
         margin-top: 20px;
     }
-    #phillip{
+
+    #phillip {
         width: 280px;
         height: 180px;
         margin-top: 20px;
     }
-    #daizel{
+
+    #daizel {
         width: 280px;
         height: 180px;
         margin-top: 20px;
     }
-    #ocheme{
+
+    #ocheme {
         display: block;
     }
-    #austin{
+
+    #austin {
         width: 280px;
         height: 180px;
         margin-top: 20px;
     }
-    #joseph{
+
+    #joseph {
         width: 280px;
         height: 180px;
         margin-top: 20px;
     }
-    #busy{
+
+    #busy {
         margin-left: 30px;
     }
-    #secondpage{
+
+    #secondpage {
         height: 1550px;
     }
-    .third{
+
+    .third {
         height: 800px;
     }
-    .fifth{
+
+    .fifth {
         height: 750px;
     }
-    #corp{
+
+    #corp {
         margin-left: -100px;
     }
-    #kan{
+
+    #kan {
         margin-left: -110px;
     }
-    .interface{
-        margin-left: 50px;
-        height: 500px;
+
+    .interface {
+        margin-left: 30px;
+        height: 550px;
     }
-    #logo{
+
+    #logo {
         width: 100px;
         height: 40px;
         margin-left: 1px;
     }
-    #one{
-        width: 150px;
-        height: 150px;
+
+    #one {
+        width: 200px;
+        height: 180px;
+
+    }
+
+    #two {
+        width: 200px;
+        height: 180px;
+
+    }
+
+    #three {
+        width: 200px;
+        height: 180px;
+    }
+
+    #blog {
+        margin-top: -500px;
+    }
+
+    #threepic {
+        display: block;
+        height: fit-content;
+        flex-direction: column;
+    }
+
+    #blog {
+        height: fit-content;
         
     }
-    #two{
-        width: 150px;
-        height: 150px;
-        
+
+    .products {
+        height: 350px;
+        width: 100%;
     }
-    #three{
-        width: 150px;
-        height: 150px;
+    #bridal{
+        width: 100%;
     }
-    #blog{
-        margin-top: -50px;
+    #bouquet{
+        width: 100%;
     }
-    #products{
-        height: 300px;
+    #staff{
+        width: 100%;
     }
-    #threepic{
+    #release h1{
+        width: 80%;
+    }
+    #release p{
+        width: 80%;
+    }
+    #onepic{
+        width: 290px;
+        height: 180px;
+        margin-left: 10px;
+    }
+    #bridal p{
+        width: 80%;
+        margin-left: 20px;
+    }
+    #bridal h4{
+        width: 90%;
+        margin-left: 20px;
+    }
+    #bouquet h4{
+        width: 90%;
+        margin-left: 20px;
+    }
+    #bouquet p{
+        width: 80%;
+        margin-left: 15px;
+    }
+    #twopic{
+        width: 290px;
+        height: 180px;
+        margin-left: 10px;  
+    }
+    #executive{
+        width: 290px;
+        height: 180px;
+        margin-left: 10px;  
+    }
+    #staff h4{
+        width: 80%;
+        margin-left: 20px;
+    }
+    #staff p{
+        width: 80%;
+        margin-left: 20px;
+    }
+    .deposit{
+        width: 100%;
+        height: 1100px;
+        /* display: block; */
+        /* height: 1500px; */
+    }
+    #posits{
         display: block;
     }
-    #blog{
-        height: 2000px;
+    #faqs{
+        display: block;
     }
+    
 }
